@@ -36,5 +36,9 @@
 10) Always run exitlag with ExitLoader.exe
   ```
 
-Link Download ExitLag : 
-https://cdn.exitlag.com/SetupExitLagBeta-5.1.0-x64.exe
+## ExitLag 
+[Download]: https://cdn.exitlag.com/SetupExitLagBeta-5.1.0-x64.exe
+
+## Discord 
+this is not my own source for more helo you can join Discord 
+[![discord][Vue.js]][discord-url]
