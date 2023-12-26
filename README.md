@@ -1,4 +1,8 @@
-# EXITLAG
+<br />
+<div align="center">
+  <a href="https://github.com/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
 Instructions:
 1) download.
