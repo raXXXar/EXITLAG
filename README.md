@@ -10,4 +10,4 @@ Instructions:
 7) Type in 2
 8) Select your path to Exitlag (Default is C:\Program Files (x86)\ExitLag)
 9) Enjoy
-10) always run exitlag with ExitLoader.exe
+10) Always run exitlag with ExitLoader.exe
