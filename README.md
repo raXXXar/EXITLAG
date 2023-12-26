@@ -37,8 +37,11 @@
   ```
 
 ## ExitLag 
-[Download]: https://cdn.exitlag.com/SetupExitLagBeta-5.1.0-x64.exe
+https://cdn.exitlag.com/SetupExitLagBeta-5.1.0-x64.exe
 
 ## Discord 
-this is not my own source for more helo you can join Discord 
-[![discord][Vue.js]][discord-url]
+this is not my own source for more help you can join Discord 
+<p align="center">
+  <a href="https://discord.gg/wuMjqNsaPG">
+    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
+  </a>
