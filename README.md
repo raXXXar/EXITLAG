@@ -11,3 +11,6 @@ Instructions:
 8) Select your path to Exitlag (Default is C:\Program Files (x86)\ExitLag)
 9) Enjoy
 10) Always run exitlag with ExitLoader.exe
+
+Link Download ExitLag : 
+https://cdn.exitlag.com/SetupExitLagBeta-5.1.0-x64.exe
